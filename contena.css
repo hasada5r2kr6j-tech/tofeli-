@@ -1,0 +1,59 @@
+   .container{
+        position: relative;
+        width:600px;
+      }
+      img{
+        width: 300%;
+        top: 50%;
+        left: 50%;
+      }
+      .container p{
+        position: absolute;
+        padding: 10px;
+        margin:0;
+      }
+      .container .tag{
+        top: 5px;
+        left: 5px;
+        width: 80px;
+        text-align: center;
+        background-color: skyblue;
+        font-weight: bold;
+        color: #fff;
+      }
+      .container .datetokyo {
+        position: relative;
+        font-size: 20px;
+        left: 1400px;
+        bottom: 700px;
+      }
+      .container .dateny {
+        position: relative;
+        font-size: 20px;
+        left: 350px;
+        bottom: 850px;
+      }
+      .container .dateld {
+        position: relative;
+        font-size: 20px;
+        left: 650px;
+        bottom: 830px;
+      }
+      .container .dateLA {
+        position: relative;
+        font-size: 20px;
+        left: 100px;
+        bottom: 800px;
+      }
+      .container .dateind {
+        position: relative;
+        font-size: 20px;
+        left: 1080px;
+        bottom: 740px;
+      }
+      .container .dateUTC {
+        position: relative;
+        font-size: 40px;
+        left: 700px;
+        bottom: 200px;
+      }
